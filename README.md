@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yungbar
-- 👀 I’m interested in website development mixed with game development
+- 👀 I’m interested in website development and with game development
 - 🌱 I’m currently learning php and bitrix 
 - 💞️ I’m looking to collaborate on website development or game development
 - 📫 How to reach me telegram - @yungbardak
